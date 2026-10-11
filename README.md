@@ -10,6 +10,11 @@ This project is a personalized modified firmware for ZXIC portable WiFi devices,
 常规用户登录密码为 **admin** 
 工厂管理员密码为 **factoryAdmin**
 ---
+## 📷 Screenshots / 截图展示
+<img src="images/login.png" width="600" alt="Login page">
+<img src="images/main.png" width="600" alt="Main page">
+<img src="images/others.png" width="600" alt="Other page">
+---
 ## 📑 License & Usage Rules / 许可与使用规则
 
 ### ✅ Allowed / 允许
