@@ -1,0 +1,40 @@
+Copyright (c) 2026
+
+# Custom Non-Commercial Open License
+# 自定义非商业开源许可
+
+## Applicable scope / 适用范围
+This license applies exclusively to all independently modified patches, build scripts, configuration files, documents and custom firmware contents created by the author for Haier M23L_V1.2 ZXIC portable WiFi.
+本许可仅适用于作者为海尔M23L_V1.2 中兴微随身WiFi独立制作的补丁、编译脚本、配置文件、文档以及自制固件修改内容。
+
+## Allowed rights / 允许行为
+1. Personal download, viewing, learning, research and non-commercial usage.
+个人下载、查阅、学习、研究以及非商业使用。
+2. Modify, adjust and secondary develop for non-commercial purposes.
+允许在非商业前提下进行修改、调优、二次开发。
+3. Non-commercial redistribution and sharing of original or modified files.
+允许非商业场景下分发、分享原版或修改后的固件文件。
+
+## Prohibited rules (Strict) / 禁止条款（严格执行）
+1. **All commercial use is strictly prohibited.**
+**严禁一切商业用途。**
+2. It is forbidden to sell, resell, package, bundle, or charge for this firmware and its derivative versions.
+禁止售卖、转售、打包、捆绑本固件及其衍生版本获利。
+3. Forbidden to provide paid flashing service, paid customization and paid technical support based on this project.
+禁止基于本项目开展付费刷机、付费定制、付费技术支持等商业服务。
+4. Any redistribution or fork must retain this original license and copyright statement.
+任何二次分发、Fork仓库，必须保留本许可文件与版权声明。
+
+## Disclaimer / 免责声明
+All files are for technical learning and research only.
+Firmware flashing carries inherent hardware risks.
+The author shall not be responsible for device bricking, hardware damage, network failure or any direct or indirect loss caused by operation.
+
+所有文件仅用于技术学习与研究。
+刷机存在硬件风险。
+因操作产生的设备变砖、硬件损坏、网络异常或任何直接、间接损失，作者不承担任何责任。
+
+## Important Note / 重要备注
+This license **does NOT apply to original vendor firmware binaries, OpenWrt, Linux kernel and other third-party open-source components**.
+Those components follow their original copyright and open-source licenses respectively.
+本许可**不适用于原厂固件二进制、OpenWrt、Linux内核以及其他第三方开源组件**，这些组件遵循其自身原始版权与开源协议。

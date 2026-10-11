@@ -1,0 +1,23 @@
+Project Copyright & Scope Notice
+项目版权与范围声明
+
+1. Licensed Content / 适用本协议的内容
+Self-made patches, build scripts, custom configurations, documentation and custom modified firmware for Haier M23L_V1.2.
+为海尔M23L_V1.2制作的自制补丁、编译脚本、自定义配置、文档以及自制修改固件。
+
+2. Third-party Copyright / 第三方版权说明
+- Original factory firmware, ZXIC chip binaries belong to their respective manufacturers.
+原厂固件、中兴微芯片底层二进制文件归原厂商所有。
+- OpenWrt, Linux kernel and other open-source components follow their original open-source licenses (GPL / MIT / Apache).
+OpenWrt、Linux内核等开源组件遵循原始开源协议（GPL / MIT / Apache）。
+This project does not claim copyright of any third-party open-source or factory binaries.
+本项目不主张任何第三方开源文件、原厂固件二进制的版权。
+
+3. Usage Restriction / 使用约束
+This project is only allowed for non-commercial personal learning and research.
+Strictly prohibited for commercial profit scenarios.
+本项目仅允许用于非商业个人学习研究，严禁任何商业盈利场景。
+
+4. Risk Prompt / 风险提示
+All flashing operations are at the user’s own risk. The author assumes no relevant responsibilities.
+所有刷机操作风险由使用者自行承担，作者不承担相关责任。
