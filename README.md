@@ -5,9 +5,11 @@
 
 This project is a personalized modified firmware for ZXIC portable WiFi devices, including customized line刷 firmware, programmer firmware and complete flashing packages.  
 本项目为中兴微系列随身WiFi设备**个人修改固件**，包含线刷固件、编程器固件、完整刷机包。**项目中所包含固件均为绿色固件**
-
 ---
-
+本项目后台
+常规用户登录密码为 **admin** 
+工厂管理员密码为 **factoryAdmin**
+---
 ## 📑 License & Usage Rules / 许可与使用规则
 
 ### ✅ Allowed / 允许
