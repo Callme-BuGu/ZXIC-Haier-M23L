@@ -1,5 +1,5 @@
-# Custom ZXIC Portable WiFi Firmware
-## 中兴微随身WiFi 定制魔改固件
+# Haier M23L_V1.2 ZXIC Portable WiFi Custom Firmware
+## 海尔M23L_V1.2 中兴微随身WiFi 定制魔改固件
 
 **English | 简体中文**
 
